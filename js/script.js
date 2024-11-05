@@ -20,3 +20,5 @@ if (palindroma(parolaMin)) {
   } else {
     console.log("La parola non è palindroma.");
   }
+
+
